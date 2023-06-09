@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 1150876912506662207}
   - component: {fileID: 4248257788649657532}
   m_Layer: 0
-  m_Name: kkk
+  m_Name: kkk 2
   m_TagString: LocationTemplate
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
